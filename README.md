@@ -1,4 +1,10 @@
-## Hi there 👋
+## ¡Hola a todos! 👋
+
+Soy Miguel F. Pascual y estoy cursando 1º DAW en IES Camp de Morvedre.
+
+Actualmente están impartiendo HTML5, CSS y Java, así como los fundamentos de Git.
+
+https://miguelf-pascual.github.io/mi-portfolio/
 
 <!--
 **miguelf-pascual/miguelf-pascual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
