@@ -1,8 +1,9 @@
 ## ¡Hola a todos! 👋
 
-Soy Miguel F. Pascual y estoy cursando 1º DAW en IES Camp de Morvedre.
+Soy Miguel F. Pascual y estoy cursando 1º DAW en IES Camp de Morvedre. 
+También trabajo como Analista / Programador en Stratic Consultoría Tecnológica desde 2016.
 
-Actualmente están impartiendo HTML5, CSS y Java, así como los fundamentos de Git.
+Actualmente, en DAW, están impartiendo HTML5, CSS y Java, así como los fundamentos de Git.
 
 https://miguelf-pascual.github.io/mi-portfolio/
 
