@@ -3,10 +3,6 @@
 Soy Miguel F. Pascual y estoy cursando 2º DAW en IES Camp de Morvedre. 
 También trabajo como Analista / Programador en Stratic Consultoría Tecnológica desde 2016.
 
-Actualmente, en DAW, están impartiendo HTML5, CSS y Java, así como los fundamentos de Git.
-
-https://miguelf-pascual.github.io/mi-portfolio/
-
 <!--
 **miguelf-pascual/miguelf-pascual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
